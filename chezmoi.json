@@ -1,0 +1,22 @@
+{
+    "version": "1.6.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/twpayne/chezmoi/releases/download/v1.6.3/chezmoi_1.6.3_windows_i386.tar.gz",
+            "bin": [
+                "chezmoi.exe"
+            ],
+            "hash": "aaa363285b006a50e8140a9047de08aa1613395053cb5d80933a2ccdaee30262"
+        },
+        "64bit": {
+            "url": "https://github.com/twpayne/chezmoi/releases/download/v1.6.3/chezmoi_1.6.3_windows_amd64.tar.gz",
+            "bin": [
+                "chezmoi.exe"
+            ],
+            "hash": "eaf14682eb38ca573cee8e17a46f3562d96c7867a52826440248b09b1cb3f771"
+        }
+    },
+    "homepage": "https://github.com/twpayne/chezmoi",
+    "license": "MIT",
+    "description": "Manage your dotfiles across multiple machines, securely."
+}
