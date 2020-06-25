@@ -1,19 +1,19 @@
 {
-    "version": "1.8.2",
+    "version": "1.8.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/twpayne/chezmoi/releases/download/v1.8.2/chezmoi_1.8.2_windows_i386.zip",
+            "url": "https://github.com/twpayne/chezmoi/releases/download/v1.8.3/chezmoi_1.8.3_windows_i386.zip",
             "bin": [
                 "chezmoi.exe"
             ],
-            "hash": "1a8c6c2849b149f4b5dd6e155779a213b9cb45c5e61505d52946e1519a0173d2"
+            "hash": "fb7adfc1bdd3394ac058f2c4a83b061ee136fe17bbb6b85d6bd7b8c9149a6067"
         },
         "64bit": {
-            "url": "https://github.com/twpayne/chezmoi/releases/download/v1.8.2/chezmoi_1.8.2_windows_amd64.zip",
+            "url": "https://github.com/twpayne/chezmoi/releases/download/v1.8.3/chezmoi_1.8.3_windows_amd64.zip",
             "bin": [
                 "chezmoi.exe"
             ],
-            "hash": "042cf6a07ca509da48b20a0903b484faf96ded3bf35bcd95a2f354c1da93af35"
+            "hash": "9508a2bf6cb63d270200cc270fcc2d811a5ea170621e91650f1bf1a840018b1b"
         }
     },
     "homepage": "https://chezmoi.io",
