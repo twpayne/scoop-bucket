@@ -6,14 +6,14 @@
             "bin": [
                 "chezmoi.exe"
             ],
-            "hash": "621fafc080ec09f6992345b3618de33905b7b426d3b6c2501f7992124e91c29c"
+            "hash": "dfa87ec5bc70c248536722e40c1e1378c7e693c0bf6cc0a8878dd69f0ef90885"
         },
         "64bit": {
             "url": "https://github.com/twpayne/chezmoi/releases/download/v2.2.0/chezmoi_2.2.0_windows_amd64.zip",
             "bin": [
                 "chezmoi.exe"
             ],
-            "hash": "4feab027018d5ddd6659dd78c5777b53630b535917a2ce204fd57b3f8b15b22d"
+            "hash": "5940425cb8645698e22658355b9fa33aa0f1f9bd0d3571e10f3002a993c784cf"
         }
     },
     "homepage": "https://chezmoi.io",
