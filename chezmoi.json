@@ -1,26 +1,26 @@
 {
-    "version": "2.52.2",
+    "version": "2.52.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/twpayne/chezmoi/releases/download/v2.52.2/chezmoi_2.52.2_windows_i386.zip",
+            "url": "https://github.com/twpayne/chezmoi/releases/download/v2.52.3/chezmoi_2.52.3_windows_i386.zip",
             "bin": [
                 "chezmoi.exe"
             ],
-            "hash": "5eaf760755cff10c0da6e48349b24bcbc7e20ce2f9b7bcc197396850f646ac05"
+            "hash": "83ae139284b9a3fb0cce4b44c607f731cc0489eb10256521a397a0bdf40f3675"
         },
         "64bit": {
-            "url": "https://github.com/twpayne/chezmoi/releases/download/v2.52.2/chezmoi_2.52.2_windows_amd64.zip",
+            "url": "https://github.com/twpayne/chezmoi/releases/download/v2.52.3/chezmoi_2.52.3_windows_amd64.zip",
             "bin": [
                 "chezmoi.exe"
             ],
-            "hash": "2f4e28c497cdf5b25c0d31502651ed71205356f30b7ebffed52d66f55bcea73e"
+            "hash": "fff7d87605bfb31a0a72aa3fde60134e2b012fcb36e74c5418d70f51ed91a6dc"
         },
         "arm64": {
-            "url": "https://github.com/twpayne/chezmoi/releases/download/v2.52.2/chezmoi_2.52.2_windows_arm64.zip",
+            "url": "https://github.com/twpayne/chezmoi/releases/download/v2.52.3/chezmoi_2.52.3_windows_arm64.zip",
             "bin": [
                 "chezmoi.exe"
             ],
-            "hash": "b368e7b8c0b9cbee4e3e68134cc3ed23f0c54213826b17d9ed90f8c010eb9eda"
+            "hash": "faaf9f48623705d8e7360f04c382f292781a5319da541da6c8885368a95528a2"
         }
     },
     "homepage": "https://chezmoi.io",
